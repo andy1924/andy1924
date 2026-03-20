@@ -6,8 +6,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnav-deshpande-35251b202/)
 [![Email](https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deshpandearnavn@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00C4CC?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
-
 </div>
 
 ---
@@ -120,18 +118,6 @@ While my core focus sits at the **intersection of Generative AI and digital secu
 </div>
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![Arnav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArnavDeshpande&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArnavDeshpande&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ArnavDeshpande&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=C9D1D9)
-
-</div>
 
 ---
 
