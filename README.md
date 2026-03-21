@@ -10,7 +10,7 @@
 
 ---
 
-## 🚀 About Me
+##About Me
 
 ```python
 class ArnavDeshpande:
