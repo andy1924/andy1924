@@ -9,7 +9,7 @@
 
 ```text
 ┌──────────────────────────────────────────────────────────────┐
-│ STATUS: MAKING THINGS I WOULD WANT TO STUMBLE UPON ONLINE.  │
+│ STATUS: MAKING THINGS I WOULD WANT TO STUMBLE UPON ONLINE.   │
 └──────────────────────────────────────────────────────────────┘
 ```
 
