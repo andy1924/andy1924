@@ -48,7 +48,7 @@ weakness:     interfaces with no personality
 favourite loot: a difficult problem and a good song
 ```
 
-I’m interested in AI that feels less like a vending machine and more like an instrument: thoughtful, expressive, and made for people .
+I’m interested in AI that feels less like a vending machine and more like an instrument: thoughtful, expressive, and made for people.
 
 </details>
 
