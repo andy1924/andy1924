@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 590" width="1200" height="590" role="img" aria-labelledby="title description">
+  <title id="title">Arnav's colorful neo-brutalist ASCII field note</title>
+  <desc id="description">A colorful hand-made field note introducing Arnav as a creative technologist who builds tiny worlds with code and music.</desc>
+  <style>
+    .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; }
+    .heavy { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; font-weight: 900; }
+  </style>
+  <rect width="1200" height="590" fill="#f7f1df"/>
+  <path d="M0 79H1200M0 511H1200" stroke="#151515" stroke-width="9"/>
+  <path d="M65 33h405l-13 36H54z" fill="#ff5d8f" stroke="#151515" stroke-width="6"/>
+  <text x="73" y="58" class="heavy" font-size="20" fill="#151515" letter-spacing="2">FIELD NOTE / 001</text>
+  <text x="1134" y="57" class="mono" font-size="18" text-anchor="end" fill="#151515">AR_NAV.EXE</text>
+  <g transform="translate(53 124)">
+    <rect x="12" y="10" width="590" height="327" fill="#151515"/>
+    <rect width="590" height="327" fill="#fff06a" stroke="#151515" stroke-width="8"/>
+    <text x="27" y="38" class="heavy" font-size="18" fill="#151515">// SIGNAL RECEIVED</text>
+    <text x="28" y="112" class="heavy" font-size="72" fill="#151515" letter-spacing="-4">HI, I’M</text>
+    <text x="23" y="193" class="heavy" font-size="86" fill="#ff5d8f" stroke="#151515" stroke-width="3" letter-spacing="-6">ARNAV.</text>
+    <text x="28" y="235" class="mono" font-size="20" fill="#151515">creative technologist / professional daydreamer</text>
+    <text x="28" y="266" class="mono" font-size="20" fill="#151515">turning curiosity into things with a pulse.</text>
+    <rect x="25" y="282" width="310" height="29" fill="#65d7b6" stroke="#151515" stroke-width="4"/>
+    <text x="38" y="303" class="heavy" font-size="15" fill="#151515" letter-spacing="1">MUSIC + CODE + LITTLE WORLDS</text>
+  </g>
+  <g transform="translate(706 103)">
+    <path d="M13 20H392V369H13z" fill="#a995ff" stroke="#151515" stroke-width="8"/>
+    <path d="M-7 42h38v39H-7zM374 309h39v40h-39z" fill="#ff5d8f" stroke="#151515" stroke-width="6"/>
+    <text x="38" y="62" class="heavy" font-size="16" fill="#151515">AN ASCII SELF-PORTRAIT</text>
+    <text x="37" y="116" class="mono" font-size="22" fill="#151515">      ______________</text>
+    <text x="37" y="146" class="mono" font-size="22" fill="#151515">     /              \</text>
+    <text x="37" y="176" class="mono" font-size="22" fill="#151515">    |  ◉        ◉   |</text>
+    <text x="37" y="206" class="mono" font-size="22" fill="#151515">    |      ___       |</text>
+    <text x="37" y="236" class="mono" font-size="22" fill="#151515">     \____/___\_____/</text>
+    <text x="37" y="278" class="mono" font-size="18" fill="#151515">      /|  playlists |\</text>
+    <text x="37" y="304" class="mono" font-size="18" fill="#151515">     / |  prototypes| \</text>
+    <text x="37" y="330" class="mono" font-size="18" fill="#151515">    /__|____________|__\</text>
+    <text x="38" y="356" class="heavy" font-size="15" fill="#151515">CURRENTLY: DANIEL CAESAR</text>
+  </g>
+  <g transform="translate(53 536)">
+    <rect width="1096" height="30" fill="#65d7b6" stroke="#151515" stroke-width="5"/>
+    <text x="15" y="21" class="heavy" font-size="16" fill="#151515" letter-spacing="1">LORE: BUILD IT INTERESTING OR DON’T BUILD IT AT ALL.</text>
+    <text x="1076" y="21" class="mono" font-size="16" text-anchor="end" fill="#151515">[ SCROLL FOR THE RECEIPTS ]</text>
+  </g>
+</svg>

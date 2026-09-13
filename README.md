@@ -1,62 +1,72 @@
-<a href="arcade/room-1-1-0.md">
-  <img src="assets/arcade.svg" width="100%" alt="andy1924 — ONE MORE COMMIT. BUG//CHASE: a playable GitHub maze. Click to insert coin and play." />
-</a>
-
 <p align="center">
-  <a href="arcade/room-1-1-0.md"><strong>▶ INSERT COIN · PLAY BUG//CHASE</strong></a>
-  &nbsp;&nbsp; / &nbsp;&nbsp;
-  <a href="https://github.com/andy1924?tab=repositories">EXPLORE THE CODE ↗</a>
+  <img src="assets/arnav-field-note.svg" width="100%" alt="Arnav's field note: music, code, and a tendency to turn ideas into tiny worlds." />
 </p>
 
-<p align="center"><sub>One patch. Two bugs. One way to ship. A tiny click-to-move adventure, right here on GitHub.</sub></p>
+<p align="center">
+  <a href="https://github.com/andy1924?tab=repositories"><strong>[ OPEN THE WORKSHOP ]</strong></a>
+  &nbsp; <a href="https://github.com/andy1924?tab=stars">[ FIND MY TASTE ]</a>
+</p>
 
----
+```text
+┌──────────────────────────────────────────────────────────────┐
+│ STATUS: MAKING THINGS I WOULD WANT TO STUMBLE UPON ONLINE.  │
+└──────────────────────────────────────────────────────────────┘
+```
 
-### Player one has entered the chat.
+## hello, i’m arnav.
 
-I'm **andy1924**. Welcome to my little corner of the internet—with a side quest built in.
+I build with code, collect strange ideas, and take the bit seriously. This page is a field note from someone who thinks software should have texture, mood, and a reason to exist.
 
-I like code that does something interesting. Take [**Agentic Chat Analyzer**](https://github.com/andy1924/Agentic-Chat-Analyzer): chat exports become communication patterns, LLM-powered profiles, and an interactive dashboard. **Python · LangChain · Streamlit.**
+Right now, I’m deep in **Python**, **LLMs**, and things that make patterns visible. [**Agentic Chat Analyzer**](https://github.com/andy1924/Agentic-Chat-Analyzer) turns chat exports into behavioral signals and an explorable dashboard — a little equalizer for human connection.
 
-| `01 / THE SIDE QUEST` | `02 / THE SOURCE` | `03 / THE SAVE FILE` |
-| :--- | :--- | :--- |
-| Find the patch. Dodge the bugs. Unlock the exit. | Projects, experiments, and whatever comes next. | Things I've bookmarked along the way. |
-| [**Start a run →**](arcade/room-1-1-0.md) | [**Browse repositories ↗**](https://github.com/andy1924?tab=repositories) | [**Explore stars ↗**](https://github.com/andy1924?tab=stars) |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>01 — current soundtrack</h3>
+      <pre>Daniel Caesar
+after dark / headphones on
+building something that feels alive</pre>
+    </td>
+    <td width="50%" valign="top">
+      <h3>02 — character sheet</h3>
+      <pre>class: creative technologist
+trait: keeps going down the rabbit hole
+inventory: ideas, tabs, playlists</pre>
+    </td>
+  </tr>
+</table>
 
 <details>
-<summary><strong>▸ Open the arcade manual</strong></summary>
-
-<br />
-
-**BUG//CHASE** is a small maze played with links. Every move opens the next room.
-
-- **Yellow** is you. Use the arrow links below the board to move one tile.
-- Pick up the **mint `+` patch**, then reach the **purple exit** in the top right.
-- **Pink bugs** are stationary traps. Step on one and your run ends.
-- The exit stays locked until you have the patch. A full map is visible, so plan your route.
-
-No sign-in, install, or external game page. Your position and inventory travel in the room link. [**Let's play →**](arcade/room-1-1-0.md)
-
-</details>
-
-<details>
-<summary><strong>▸ Inspect the suspiciously placed wall</strong></summary>
+<summary><strong>▣ field manual / what I’m here for</strong></summary>
 
 <br />
 
 ```text
-  YOU FOUND A SECRET ROOM.
-
-  +100 curiosity
-  +0 meetings that could have been an email
-
-  The real high score is shipping something you care about.
+mission:      make useful things with a pulse
+method:       curiosity → prototype → obsession → ship
+weakness:     interfaces with no personality
+favourite loot: a difficult problem and a good song
 ```
 
-[Return to the maze →](arcade/room-1-1-0.md)
+I’m interested in AI that feels less like a vending machine and more like an instrument: thoughtful, expressive, and made for people.
+
+</details>
+
+<details>
+<summary><strong>▣ open a hidden pocket</strong></summary>
+
+<br />
+
+```text
+you found the part of the profile that says:
+
+      make it weird enough that you remember it.
+
+                — arnav, probably at 1:47am
+```
 
 </details>
 
 <br />
 
-<img src="assets/footer.svg" width="100%" alt="End of profile. Not end of game. Continue? Always." />
+<p align="center"><sub>built in public-ish · powered by curiosity · currently playing Daniel Caesar</sub></p>
