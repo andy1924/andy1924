@@ -1,36 +1,47 @@
 <p align="center">
-  <img src="matchbox.svg" alt="Arnav Brand: an original profile illustration inspired by colorful Indian matchbox labels, with a flame, record, and the words Light an Idea." width="100%">
+  <img src="assets/cover.svg" alt="Arnav Deshpande. A small matchbook of code, music, and side quests, illustrated like a colorful Indian matchbox label." width="100%">
 </p>
 
-### Open the box
+### Hi, I'm Arnav.
 
-Hi, I’m **Arnav**. I like building things with code, following a strange idea all the way down, and keeping a good record on while I do it. Currently in a **Daniel Caesar** phase.
+I'm a Computer Engineering student at NMIMS in Mumbai. My projects usually start with *“wait, what if…”* and then take a detour I didn't plan for. The current soundtrack is **Daniel Caesar**.
 
-I’m drawn to software that reveals something about people, not just software that runs. I also think a little personality can make an interface memorable.
+Those detours have led me from rural business tools to AI grounded in evidence to cricket analysis. I like that range. A side quest is still worth finishing.
 
-### One of the sparks
+### Pick a match
 
-**[Agentic Chat Analyzer ↗](https://github.com/andy1924/Agentic-Chat-Analyzer)**
-
-A Python and Streamlit project that turns chat exports into relationship signals and explorable profiles. It’s one example of the kind of experiment I enjoy: part engineering, part curiosity about how people connect.
-
-**[Browse the rest of my work ↗](https://github.com/andy1924?tab=repositories)**
+<table>
+  <tr>
+    <td width="170"><a href="https://github.com/andy1924/UdyogSaarthi"><img src="assets/people.svg" width="160" alt="UdyogSaarthi matchbox label: a shop under a rising sun"></a></td>
+    <td><strong>01 / For people — <a href="https://github.com/andy1924/UdyogSaarthi">UdyogSaarthi ↗</a></strong><br>Making business planning, finance, and compliance easier to navigate for rural micro-entrepreneurs. Multilingual and designed around access.</td>
+  </tr>
+  <tr>
+    <td width="170"><a href="https://github.com/andy1924/Graph-RAG"><img src="assets/proof.svg" width="160" alt="Graph-RAG matchbox label: connected nodes around a spark"></a></td>
+    <td><strong>02 / For proof — <a href="https://github.com/andy1924/Graph-RAG">Graph-RAG ↗</a></strong><br>Testing graph-based retrieval against a conventional RAG baseline. The question: can an AI answer stay closer to its evidence?</td>
+  </tr>
+  <tr>
+    <td width="170"><a href="https://github.com/andy1924/The-First-Six-Overs"><img src="assets/play.svg" width="160" alt="The First Six Overs matchbox label: cricket ball and powerplay field"></a></td>
+    <td><strong>03 / For the game — <a href="https://github.com/andy1924/The-First-Six-Overs">The First Six Overs ↗</a></strong><br>An R-powered look at T20 powerplays and the trade-off between scoring quickly and losing wickets.</td>
+  </tr>
+</table>
 
 <details>
-<summary><strong>✳ read the fine print</strong></summary>
+<summary><strong>✦ The back of the matchbook</strong></summary>
 
 <br>
 
 ```text
-MATCH NO. 001
-MAKER       Arnav
-FUEL        code · music · curiosity
-ON REPEAT   Daniel Caesar
-WARNING     side quests may become full projects
-```
+ARNAV / NO. 1924
 
-If you found something interesting here, [say hi on GitHub](https://github.com/andy1924).
+ON REPEAT       Daniel Caesar
+USUAL DETOUR    one more idea than I planned for
+IN THE TOOLBOX  Python · TypeScript · R
+NEXT MOVE       make the curious thing work
+```
 
 </details>
 
-<p align="center"><sub>strike an idea · see what catches</sub></p>
+<p align="center">
+  <a href="https://github.com/andy1924?tab=repositories">All repositories ↗</a> ·
+  <a href="https://www.linkedin.com/in/arnav-deshpande-35251b202/">Say hello ↗</a>
+</p>

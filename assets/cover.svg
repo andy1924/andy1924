@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 290" role="img" aria-labelledby="title desc">
+  <title id="title">Arnav Deshpande — a small matchbook of big detours</title>
+  <desc id="desc">An original Indian matchbox-inspired profile cover in indigo, vermilion, saffron, and cream, with a record and three lit matches.</desc>
+  <defs>
+    <pattern id="paper" width="16" height="16" patternUnits="userSpaceOnUse">
+      <rect width="16" height="16" fill="#f2dfb2"/>
+      <circle cx="3" cy="5" r=".6" fill="#916f47" opacity=".45"/>
+      <circle cx="11" cy="12" r=".7" fill="#916f47" opacity=".4"/>
+    </pattern>
+    <pattern id="edge" width="16" height="16" patternUnits="userSpaceOnUse">
+      <path d="M0 0l8 8 8-8M0 16l8-8 8 8" fill="none" stroke="#f7c749" stroke-width="3"/>
+    </pattern>
+  </defs>
+  <rect width="960" height="290" fill="url(#paper)"/>
+  <rect x="4" y="4" width="952" height="282" fill="none" stroke="#182447" stroke-width="8"/>
+  <rect x="14" y="14" width="932" height="33" fill="#c7362c"/>
+  <text x="26" y="37" font-family="Georgia, serif" font-size="17" font-weight="bold" letter-spacing="3" fill="#fff5d9">ARNAV / MATCHBOOK 001</text>
+  <text x="932" y="37" font-family="Georgia, serif" font-size="16" font-weight="bold" letter-spacing="2" text-anchor="end" fill="#fff5d9">MUMBAI · IN STEREO</text>
+
+  <rect x="32" y="65" width="576" height="179" fill="#182447"/>
+  <rect x="22" y="55" width="576" height="179" fill="#21529a" stroke="#182447" stroke-width="5"/>
+  <rect x="34" y="67" width="552" height="155" fill="none" stroke="#f3c448" stroke-width="3"/>
+  <text x="52" y="94" font-family="Georgia, serif" font-size="17" font-weight="bold" letter-spacing="3" fill="#f9e6bb">HELLO, I'M</text>
+  <text x="48" y="160" font-family="Arial Black, Impact, sans-serif" font-size="79" font-weight="900" letter-spacing="3" fill="#fff5d9">ARNAV.</text>
+  <text x="51" y="202" font-family="Georgia, serif" font-size="25" font-weight="bold" fill="#f7c749">I BUILD THE SIDE QUEST.</text>
+
+  <rect x="631" y="62" width="293" height="182" fill="#182447"/>
+  <rect x="621" y="52" width="293" height="182" fill="#c7362c" stroke="#182447" stroke-width="5"/>
+  <rect x="632" y="63" width="271" height="160" fill="url(#edge)"/>
+  <rect x="650" y="79" width="235" height="128" fill="#f8d36a" stroke="#182447" stroke-width="4"/>
+  <text x="767" y="101" text-anchor="middle" font-family="Georgia, serif" font-size="13" font-weight="bold" letter-spacing="2" fill="#182447">BUILD • LISTEN • REPEAT</text>
+  <circle cx="767" cy="151" r="42" fill="#182447"/>
+  <circle cx="767" cy="151" r="30" fill="none" stroke="#f8d36a" stroke-width="4"/>
+  <circle cx="767" cy="151" r="17" fill="#c7362c" stroke="#f8d36a" stroke-width="3"/>
+  <circle cx="767" cy="151" r="4" fill="#fff5d9"/>
+  <path d="M663 166l-15-30m15 30l22-37m-22 37l5-45" stroke="#182447" stroke-width="5" stroke-linecap="round"/>
+  <path d="M648 130c-9-9-4-16 0-22 0 8 7 10 7 3 9 9 8 16-7 19zM685 124c-9-9-4-16 0-22 0 8 7 10 7 3 9 9 8 16-7 19z" fill="#c7362c" stroke="#182447" stroke-width="2"/>
+  <path d="M870 174l11-11m-11 11l-2-17m2 17l-16-10" stroke="#182447" stroke-width="4" stroke-linecap="round"/>
+  <path d="M881 163c-5-6-2-11 1-15 0 5 5 7 5 2 6 7 4 12-6 13z" fill="#c7362c" stroke="#182447" stroke-width="2"/>
+
+  <path d="M20 257h920" stroke="#182447" stroke-width="4"/>
+  <text x="28" y="279" font-family="Georgia, serif" font-size="15" font-weight="bold" letter-spacing="1" fill="#182447">OPEN THE BOX. PICK A MATCH.</text>
+  <text x="932" y="279" text-anchor="end" font-family="Georgia, serif" font-size="15" font-weight="bold" letter-spacing="1" fill="#182447">THREE SMALL FIRES BELOW ↓</text>
+</svg>

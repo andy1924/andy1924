@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-labelledby="title">
+  <title id="title">Graph-RAG — for proof</title>
+  <rect width="160" height="160" fill="#f3ddb0"/>
+  <rect x="5" y="5" width="150" height="150" fill="#21529a" stroke="#182447" stroke-width="5"/>
+  <rect x="13" y="13" width="134" height="134" fill="#f6cf60" stroke="#c7362c" stroke-width="3"/>
+  <text x="80" y="32" text-anchor="middle" font-family="Georgia, serif" font-size="15" font-weight="bold" letter-spacing="2" fill="#182447">MATCH 02</text>
+  <path d="M46 59l34 27 36-32M46 59l20 52 50-57M80 86l28 26-42-1" fill="none" stroke="#182447" stroke-width="6"/>
+  <circle cx="46" cy="59" r="11" fill="#c7362c" stroke="#182447" stroke-width="3"/>
+  <circle cx="116" cy="54" r="11" fill="#16715e" stroke="#182447" stroke-width="3"/>
+  <circle cx="80" cy="86" r="14" fill="#fff3d5" stroke="#182447" stroke-width="3"/>
+  <circle cx="66" cy="111" r="9" fill="#21529a" stroke="#182447" stroke-width="3"/>
+  <circle cx="108" cy="112" r="9" fill="#c7362c" stroke="#182447" stroke-width="3"/>
+  <rect x="18" y="130" width="124" height="17" fill="#c7362c" stroke="#182447" stroke-width="3"/>
+  <text x="80" y="143" text-anchor="middle" font-family="Arial Black, Impact, sans-serif" font-size="14" font-weight="900" letter-spacing="1" fill="#fff3d5">PROOF</text>
+</svg>
