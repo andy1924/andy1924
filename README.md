@@ -1,72 +1,36 @@
 <p align="center">
-  <img src="assets/arnav-field-note.svg" width="100%" alt="Arnav's field note: music, code, and a tendency to turn ideas into tiny worlds." />
+  <img src="matchbox.svg" alt="Arnav Brand: an original profile illustration inspired by colorful Indian matchbox labels, with a flame, record, and the words Light an Idea." width="100%">
 </p>
 
-<p align="center">
-  <a href="https://github.com/andy1924?tab=repositories"><strong>[ OPEN THE WORKSHOP ]</strong></a>
-  &nbsp; <a href="https://github.com/andy1924?tab=stars">[ FIND MY TASTE ]</a>
-</p>
+### Open the box
 
-```text
-┌──────────────────────────────────────────────────────────────┐
-│ STATUS: MAKING THINGS I WOULD WANT TO STUMBLE UPON ONLINE.   │
-└──────────────────────────────────────────────────────────────┘
-```
+Hi, I’m **Arnav**. I like building things with code, following a strange idea all the way down, and keeping a good record on while I do it. Currently in a **Daniel Caesar** phase.
 
-## hello, i’m arnav.
+I’m drawn to software that reveals something about people, not just software that runs. I also think a little personality can make an interface memorable.
 
-I build with code, collect strange ideas, and take the bit seriously. This page is a field note from someone who thinks software should have texture, mood, and a reason to exist.
+### One of the sparks
 
-Right now, I’m deep in **Python**, **LLMs**, and things that make patterns visible. [**Agentic Chat Analyzer**](https://github.com/andy1924/Agentic-Chat-Analyzer) turns chat exports into behavioral signals and an explorable dashboard — a little equalizer for human connection.
+**[Agentic Chat Analyzer ↗](https://github.com/andy1924/Agentic-Chat-Analyzer)**
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>01 — current soundtrack</h3>
-      <pre>Daniel Caesar
-after dark / headphones on
-building something that feels alive</pre>
-    </td>
-    <td width="50%" valign="top">
-      <h3>02 — character sheet</h3>
-      <pre>class: creative technologist
-trait: keeps going down the rabbit hole
-inventory: ideas, tabs, playlists</pre>
-    </td>
-  </tr>
-</table>
+A Python and Streamlit project that turns chat exports into relationship signals and explorable profiles. It’s one example of the kind of experiment I enjoy: part engineering, part curiosity about how people connect.
+
+**[Browse the rest of my work ↗](https://github.com/andy1924?tab=repositories)**
 
 <details>
-<summary><strong>▣ field manual / what I’m here for</strong></summary>
+<summary><strong>✳ read the fine print</strong></summary>
 
-<br />
+<br>
 
 ```text
-mission:      make useful things with a pulse
-method:       curiosity → prototype → obsession → ship
-weakness:     interfaces with no personality
-favourite loot: a difficult problem and a good song
+MATCH NO. 001
+MAKER       Arnav
+FUEL        code · music · curiosity
+ON REPEAT   Daniel Caesar
+WARNING     side quests may become full projects
 ```
 
-I’m interested in AI that feels less like a vending machine and more like an instrument: thoughtful, expressive, and made for people.
+If you found something interesting here, [say hi on GitHub](https://github.com/andy1924).
 
 </details>
 
-<details>
-<summary><strong>▣ open a hidden pocket</strong></summary>
-
-<br />
-
-```text
-you found the part of the profile that says:
-
-      make it weird enough that you remember it.
-
-                — arnav, probably at 1:47am
-```
-
-</details>
-
-<br />
-
-<p align="center"><sub>built in public-ish · powered by curiosity · currently playing Daniel Caesar</sub></p>
+<p align="center"><sub>strike an idea · see what catches</sub></p>
