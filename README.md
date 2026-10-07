@@ -2,7 +2,7 @@
   <img src="assets/cover.jpg" alt="Arnav Deshpande: a colorful, vintage Indian print-style banner with a tiger in headphones holding a match beside a vinyl record." width="100%">
 </p>
 
-I'm Arnav, a Computer Engineering student at NMIMS in Mumbai. My repositories sometimes look like three people share this account: one wants better tools for rural entrepreneurs, one wants AI to show its working, and one is still thinking about the first six overs. It's just me.
+I'm Arnav, a Computer Engineering student at NMIMS in Mumbai. I like questions that refuse to stay theoretical. So far, they've pulled me into rural entrepreneurship, Graph-RAG, and T20 powerplays. I follow the question until there's code.
 
 *Currently on repeat: Daniel Caesar.*
 
@@ -11,15 +11,15 @@ I'm Arnav, a Computer Engineering student at NMIMS in Mumbai. My repositories so
 <table>
   <tr>
     <td width="132"><a href="https://github.com/andy1924/UdyogSaarthi"><img src="assets/udyog.jpg" width="128" alt="Illustrated shop and rising sun"></a></td>
-    <td><strong><a href="https://github.com/andy1924/UdyogSaarthi">UdyogSaarthi ↗</a></strong><br><em>What if a business idea didn't get stuck at the starting line?</em><br>A multilingual, accessibility-first guide to planning, finance, and compliance for rural micro-entrepreneurs.</td>
+    <td><strong><a href="https://github.com/andy1924/UdyogSaarthi">UdyogSaarthi ↗</a></strong><br><em>Could the first steps of building a business be less of a maze?</em><br>A multilingual, accessibility-first guide to planning, finance, and compliance for rural micro-entrepreneurs.</td>
   </tr>
   <tr>
     <td width="132"><a href="https://github.com/andy1924/Graph-RAG"><img src="assets/graph.jpg" width="128" alt="Illustrated magnifying glass revealing a connected graph"></a></td>
-    <td><strong><a href="https://github.com/andy1924/Graph-RAG">Graph-RAG ↗</a></strong><br><em>Can an AI answer show its working?</em><br>Graph-based retrieval measured against a conventional RAG baseline to see where evidence improves the answer.</td>
+    <td><strong><a href="https://github.com/andy1924/Graph-RAG">Graph-RAG ↗</a></strong><br><em>Can an AI answer show its working?</em><br>An experiment comparing graph-based retrieval with a standard RAG baseline to see whether answers stay closer to the evidence.</td>
   </tr>
   <tr>
     <td width="132"><a href="https://github.com/andy1924/The-First-Six-Overs"><img src="assets/cricket.jpg" width="128" alt="Illustrated cricket ball soaring over a stadium"></a></td>
-    <td><strong><a href="https://github.com/andy1924/The-First-Six-Overs">The First Six Overs ↗</a></strong><br><em>How much should a team risk in the first six overs?</em><br>An R analysis of the powerplay trade-off: score faster, or protect wickets?</td>
+    <td><strong><a href="https://github.com/andy1924/The-First-Six-Overs">The First Six Overs ↗</a></strong><br><em>What's the price of an aggressive powerplay?</em><br>An R analysis of the trade-off between quick runs and early wickets.</td>
   </tr>
 </table>
 
