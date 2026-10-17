@@ -1,4 +1,4 @@
-<img src="assets/sketchbook/header.png" width="100%" alt="Arnav's notebook: Computer Engineering at NMIMS, Mumbai; AI and backend development. Pen sketches of a laptop, cricket ball, and headphones labeled Daniel Caesar.">
+<picture><source media="(prefers-color-scheme: light)" srcset="assets/sketchbook/header-light.png"><img src="assets/sketchbook/header.png" width="100%" alt="Arnav's notebook: Computer Engineering at NMIMS, Mumbai; AI and backend development. Pen sketches of a laptop, cricket ball, and headphones labeled Daniel Caesar."></picture>
 
 I'm **Arnav Deshpande**, a Computer Engineering student at **NMIMS, Mumbai**. Most of my work is in Python: AI applications, retrieval systems, and backend APIs.
 
@@ -9,24 +9,24 @@ I'm **Arnav Deshpande**, a Computer Engineering student at **NMIMS, Mumbai**. Mo
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/andy1924/CARRICK"><img src="assets/sketchbook/carrick.png" width="100%" alt="CARRICK: a sketch of a crane beside a project schedule. Open the repository."></a>
+<a href="https://github.com/andy1924/CARRICK"><picture><source media="(prefers-color-scheme: light)" srcset="assets/sketchbook/carrick-light.png"><img src="assets/sketchbook/carrick.png" width="100%" alt="CARRICK: a sketch of a crane beside a project schedule. Open the repository."></picture></a>
 <p>Connects infrastructure field reports to schedule activities. AI proposes matches; planners review the changes before export.</p>
 <p><sub>Python · SQLite · RAG</sub><br><a href="https://github.com/andy1924/CARRICK/blob/main/docs/architecture/system.md">Architecture</a> · <a href="https://github.com/andy1924/CARRICK/tree/main/tests">Tests</a></p>
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/andy1924/UdyogSaarthi"><img src="assets/sketchbook/udyog.png" width="100%" alt="UdyogSaarthi: a sketch of a village shop. Open the repository."></a>
+<a href="https://github.com/andy1924/UdyogSaarthi"><picture><source media="(prefers-color-scheme: light)" srcset="assets/sketchbook/udyog-light.png"><img src="assets/sketchbook/udyog.png" width="100%" alt="UdyogSaarthi: a sketch of a village shop. Open the repository."></picture></a>
 <p>A team project for rural entrepreneurs: multilingual business planning, financial calculations, feasibility checks, and project reports.</p>
 <p><sub>FastAPI · PostgreSQL / PostGIS · React · Celery</sub><br><a href="https://github.com/andy1924/UdyogSaarthi/blob/main/docs/systemDesign.md">System design</a> · <a href="https://github.com/andy1924/UdyogSaarthi/blob/main/docs/apiDocs.md">API</a></p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/andy1924/Graph-RAG"><img src="assets/sketchbook/graph.png" width="100%" alt="Graph-RAG: a sketched network of connected nodes. Open the repository."></a>
+<a href="https://github.com/andy1924/Graph-RAG"><picture><source media="(prefers-color-scheme: light)" srcset="assets/sketchbook/graph-light.png"><img src="assets/sketchbook/graph.png" width="100%" alt="Graph-RAG: a sketched network of connected nodes. Open the repository."></picture></a>
 <p>Co-authored research comparing multimodal, graph-based retrieval with a chunk-based RAG baseline. Includes an evaluation pipeline and benchmark results.</p>
 <p><sub>Python · Neo4j · ChromaDB</sub><br><a href="https://github.com/andy1924/Graph-RAG/blob/main/docs/ARCHITECTURE.md">Architecture</a> · <a href="https://github.com/andy1924/Graph-RAG/blob/main/docs/EVALUATION.md">Evaluation</a></p>
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/andy1924/The-First-Six-Overs"><img src="assets/sketchbook/cricket.png" width="100%" alt="The First Six Overs: a sketched cricket ball and 1,227 IPL matches. Open the repository."></a>
+<a href="https://github.com/andy1924/The-First-Six-Overs"><picture><source media="(prefers-color-scheme: light)" srcset="assets/sketchbook/cricket-light.png"><img src="assets/sketchbook/cricket.png" width="100%" alt="The First Six Overs: a sketched cricket ball and 1,227 IPL matches. Open the repository."></picture></a>
 <p>I used ball-by-ball data from 1,227 IPL matches to look at toss effects, powerplay runs, and wickets.</p>
 <p><sub>R · Cricsheet · hypothesis testing · regression</sub><br><a href="https://github.com/andy1924/The-First-Six-Overs/blob/main/analysis.md">Findings</a> · <a href="https://github.com/andy1924/The-First-Six-Overs/blob/main/R/01_analysis.R">Analysis</a></p>
 </td>

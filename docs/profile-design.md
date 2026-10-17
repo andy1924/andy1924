@@ -6,6 +6,8 @@ The current direction is a sketchbook, chosen by Arnav after rejecting the recor
 
 The original artwork is rendered by `scripts/build_sketchbook.py` into `assets/sketchbook/`. It uses pen lines, notebook dots, handwritten type, and small areas of marker color. The exported PNGs preserve the lettering across browsers without requiring visitors to have a particular font. Rendering requires Pillow and the macOS Noteworthy and Bradley Hand fonts; the fonts themselves are not distributed. This is constructed artwork, not a scan of Arnav's handwriting.
 
+Dark-mode artwork has a transparent background, pale gray ink, and muted accents, so it blends into GitHub's dark themes. Light-mode images retain the paper background. The README uses GitHub-supported picture sources to select the corresponding version. Both sets are produced by the same renderer.
+
 The old record assets are retained for history but are no longer used by the README.
 
 ## Research references
