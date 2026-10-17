@@ -9,7 +9,11 @@ The header balances loose handwritten lettering with dimensional pen drawings. T
 - `assets/sketchbook/header-animated-dark.svg`
 - `assets/sketchbook/header-animated-light.svg`
 
-The static illustrations (`header-edited-dark.png` and `header-edited-light.png`) were edited with the built-in image tool. `scripts/build_name_animation.py` embeds them unchanged in self-contained SVGs. The name-and-marker region reveals from left to right, holds, then fades and repeats over seven seconds. All other artwork stays still; reduced-motion preferences show the full static header. The exact edit prompts are in [illustration-prompts.md](illustration-prompts.md). GitHub's picture sources select the matching theme. The original pen-drawing source and earlier header files remain available; running `scripts/build_sketchbook.py` does not overwrite the current illustrated header.
+The approved static artwork is locked in `assets/sketchbook/header-approved.png`, copied byte-for-byte from Arnav's chosen image (`exec-42020c5d-c843-47b8-a2dc-f654ef54f167.png`). Both header wrappers embed those exact bytes, preserving its shading and colors. No generative recoloring is applied.
+
+`scripts/build_name_animation.py` adds a thin left notebook margin, the NMIMS-to-Computer-Engineering arrow, and racket strings as separate vector layers. The name-and-marker region reveals from left to right, holds, then fades and repeats over seven seconds. All other artwork stays still; reduced-motion preferences show the full static header.
+
+Earlier illustration prompts remain in [illustration-prompts.md](illustration-prompts.md). The original pen-drawing source and earlier header files remain available; running `scripts/build_sketchbook.py` does not overwrite the approved artwork or current wrappers.
 
 ## References
 
