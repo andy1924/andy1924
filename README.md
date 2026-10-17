@@ -1,4 +1,4 @@
-<picture><source media="(prefers-color-scheme: light)" srcset="assets/sketchbook/header-light.png"><img src="assets/sketchbook/header.png" width="100%" alt="Arnav's notebook: Computer Engineering at NMIMS, Mumbai; AI and backend development. Pen sketches of a laptop, cricket ball, and headphones labeled Daniel Caesar."></picture>
+<picture><source media="(prefers-color-scheme: light)" srcset="assets/sketchbook/header-animated-light.svg"><img src="assets/sketchbook/header-animated-dark.svg" width="100%" alt="Arnav's notebook: Computer Engineering at NMIMS, Mumbai; AI and backend development. An illustrated desk scene with a laptop, dumbbell, badminton racket, drink, and headphones; a small mountain-and-coast study and Formula 1 car, with handwritten annotation arrows and an animated name reveal."></picture>
 
 I'm **Arnav Deshpande**, a Computer Engineering student at **NMIMS, Mumbai**. Most of my work is in Python: AI applications, retrieval systems, and backend APIs.
 

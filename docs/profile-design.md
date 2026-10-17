@@ -1,22 +1,20 @@
 # Profile design
 
-17 October 2026.
+The profile uses a sketchbook layout with a short introduction, four illustrated project cards, and direct contact links.
 
-The current direction is a sketchbook, chosen by Arnav after rejecting the record-sleeve version. The README uses a short introduction, four illustrated projects, and direct contact links. The drawings refer to the actual work: a crane and schedule, a rural shop, a retrieval graph, and a cricket ball. Music appears once, as a note beside the headphones.
+The header balances loose handwritten lettering with dimensional pen drawings. The laptop, headphones, racket, drink, dumbbell, F1 car, and mountain-and-coast study reflect Arnav's work and interests. Small handwritten arrows connect “usually here” to the laptop, “always on” to the headphones, “or here” to the outdoor study, and NMIMS / Mumbai to the Computer Engineering line. The badminton racket has an open string grid inside a double oval frame. There are no written drink or hobby labels.
 
-The original artwork is rendered by `scripts/build_sketchbook.py` into `assets/sketchbook/`. It uses pen lines, notebook dots, handwritten type, and small areas of marker color. The exported PNGs preserve the lettering across browsers without requiring visitors to have a particular font. Rendering requires Pillow and the macOS Noteworthy and Bradley Hand fonts; the fonts themselves are not distributed. This is constructed artwork, not a scan of Arnav's handwriting.
+## Current header assets
 
-Dark-mode artwork has a transparent background, pale gray ink, and muted accents, so it blends into GitHub's dark themes. Light-mode images retain the paper background. The README uses GitHub-supported picture sources to select the corresponding version. Both sets are produced by the same renderer.
+- `assets/sketchbook/header-animated-dark.svg`
+- `assets/sketchbook/header-animated-light.svg`
 
-The old record assets are retained for history but are no longer used by the README.
+The static illustrations (`header-edited-dark.png` and `header-edited-light.png`) were edited with the built-in image tool. `scripts/build_name_animation.py` embeds them unchanged in self-contained SVGs. The name-and-marker region reveals from left to right, holds, then fades and repeats over seven seconds. All other artwork stays still; reduced-motion preferences show the full static header. The exact edit prompts are in [illustration-prompts.md](illustration-prompts.md). GitHub's picture sources select the matching theme. The original pen-drawing source and earlier header files remain available; running `scripts/build_sketchbook.py` does not overwrite the current illustrated header.
 
-## Research references
+## References
 
-- [GitHub's profile guidance](https://docs.github.com/en/account-and-profile/tutorials/using-your-github-profile-to-enhance-your-resume): clear personal context and a small selection of projects.
-- [DenverCoder1](https://github.com/DenverCoder1/DenverCoder1): projects with clear routes into the work.
-- [Sindre Sorhus](https://github.com/sindresorhus/sindresorhus): an openly playful presentation.
-- [Caneco](https://github.com/Caneco/Caneco): a short introduction with concrete work and community details.
-- [Tim Burgan](https://github.com/timburgan/timburgan): a chess game that makes the README itself a software project.
-- [Awesome GitHub Profile README](https://github.com/abhisheknaiidu/awesome-github-profile-readme): a reference collection for different presentation approaches.
+- [Liz Steel: Placement and White Space](https://www.lizsteel.com/sketchbookdesigntoptips/): grouped sketches, open space, and interlocking forms.
+- [Sandy Allnock: Composition in Doodling](https://sandyallnock.com/composition-in-doodling-with-custom-brush-pen/): using light and dark space and directional marks to unify a page.
+- [GitHub's profile guidance](https://docs.github.com/en/account-and-profile/tutorials/using-your-github-profile-to-enhance-your-resume): personal context and a small selection of projects.
 
-These references informed layout research. Their artwork and copy have not been reused. The profile has been revised locally; live GitHub publication and pin settings are separate.
+Reference artwork is not incorporated into the header. The project drawings are the original notebook assets rendered by `scripts/build_sketchbook.py`. The profile is updated locally; publishing and profile-pin settings are separate.
