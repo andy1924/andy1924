@@ -11,7 +11,7 @@ The header balances loose handwritten lettering with dimensional pen drawings. T
 
 The approved static artwork is locked in `assets/sketchbook/header-approved.png`, copied byte-for-byte from Arnav's chosen image (`exec-42020c5d-c843-47b8-a2dc-f654ef54f167.png`). Both header wrappers embed those exact bytes, preserving its shading and colors. No generative recoloring is applied.
 
-`scripts/build_name_animation.py` adds a thin left notebook margin, the NMIMS-to-Computer-Engineering arrow, and racket strings as separate vector layers. The name-and-marker region reveals from left to right, holds, then fades and repeats over seven seconds. All other artwork stays still; reduced-motion preferences show the full static header.
+`scripts/build_name_animation.py` adds a thin left notebook margin with three shaded punch holes, the NMIMS-to-Computer-Engineering arrow, and racket strings as separate vector layers. The three existing annotation labels are recolored faint orange through clipped vector filters, preserving their original handwriting. The name-and-marker region reveals from left to right, holds, then fades and repeats over seven seconds. All other artwork stays still; reduced-motion preferences show the full static header.
 
 Earlier illustration prompts remain in [illustration-prompts.md](illustration-prompts.md). The original pen-drawing source and earlier header files remain available; running `scripts/build_sketchbook.py` does not overwrite the approved artwork or current wrappers.
 
