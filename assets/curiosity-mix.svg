@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="510" viewBox="0 0 1200 510" role="img" aria-labelledby="title desc">
+<title id="title">Arnav Deshpande — The Curiosity Mix</title>
+<desc id="desc">An animated record sleeve. Curiosity on repeat. Applied AI, backend, full-stack. Made in Mumbai.</desc>
+<defs>
+<pattern id="dots" width="12" height="12" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#f9e7be" opacity=".12"/></pattern>
+<pattern id="hatch" width="9" height="9" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><path d="M0 0V9" stroke="#f9e7be" stroke-width="2" opacity=".2"/></pattern>
+<path id="star" d="M0-16 5-5 16 0 5 5 0 16-5 5-16 0-5-5Z"/>
+<style>
+.spin{transform-origin:930px 255px;animation:turn 22s linear infinite}
+.bar{transform-box:fill-box;transform-origin:center bottom;animation:beat 1.2s ease-in-out infinite alternate}
+.b2{animation-delay:-.4s}.b3{animation-delay:-.9s}.b4{animation-delay:-.2s}.b5{animation-delay:-.6s}
+@keyframes turn{to{transform:rotate(360deg)}}
+@keyframes beat{from{transform:scaleY(.3)}to{transform:scaleY(1)}}
+@media(prefers-reduced-motion:reduce){.spin,.bar{animation:none}}
+</style></defs>
+<path fill="#f9e7be" d="M0 0h1200v510H0z"/><path fill="#e64b2f" d="M8 8h1184v494H8z"/>
+<path fill="#102f3b" d="M18 18h1164v474H18z"/><path fill="url(#dots)" d="M18 18h1164v474H18z"/>
+<g fill="none" stroke="#efb647" stroke-width="1.5"><path d="M33 77H1167M33 431H1167M683 77V431"/><path d="M33 33h1134v444H33z"/></g>
+<g font-family="Arial, Helvetica, sans-serif" fill="#f9e7be">
+<text x="52" y="60" font-size="19" font-weight="700" letter-spacing="3">ARNAV DESHPANDE</text>
+<text x="654" y="60" text-anchor="end" font-size="13" letter-spacing="2">THE CURIOSITY MIX / VOL. 01</text>
+<text x="1148" y="60" text-anchor="end" font-size="14" letter-spacing="2">INDEPENDENT IDEAS. IN STEREO.</text>
+<text x="51" y="126" font-size="15" letter-spacing="4" fill="#efb647">APPLIED AI / BACKEND / FULL-STACK</text>
+<g font-family="Impact, 'Arial Narrow', sans-serif" font-weight="900" letter-spacing="-3">
+<text x="55" y="231" font-size="98" fill="#e64b2f">CURIOSITY</text><text x="50" y="225" font-size="98">CURIOSITY</text>
+<text x="55" y="334" font-size="98" fill="#e64b2f">ON REPEAT.</text><text x="50" y="328" font-size="98">ON REPEAT.</text></g>
+<text x="54" y="379" font-size="23">Real problems. A little rhythm. A lot of building.</text>
+<text x="54" y="409" font-size="15" letter-spacing="2" fill="#efb647">DROP THE NEEDLE. EXPLORE THE WORK. ↓</text>
+<text x="54" y="461" font-size="15" font-weight="700" letter-spacing="2">MADE IN MUMBAI</text>
+<text x="654" y="461" text-anchor="end" font-size="14" letter-spacing="2">CODE / CRICKET / CURIOSITY</text>
+<text x="1148" y="461" text-anchor="end" font-size="14" letter-spacing="2">SIDE A: BUILD · SIDE B: EXPLORE</text></g>
+<circle cx="930" cy="255" r="174" fill="#e64b2f"/><circle cx="930" cy="255" r="163" fill="#efb647"/>
+<circle cx="930" cy="255" r="153" fill="#091c25"/>
+<g fill="none" stroke="#547078" opacity=".55"><circle cx="930" cy="255" r="86"/><circle cx="930" cy="255" r="94"/><circle cx="930" cy="255" r="102"/><circle cx="930" cy="255" r="110"/><circle cx="930" cy="255" r="118"/><circle cx="930" cy="255" r="126"/><circle cx="930" cy="255" r="134"/><circle cx="930" cy="255" r="142"/></g>
+<g class="spin">
+<path d="M930 105A150 150 0 0 1 1060 180L997 216A77 77 0 0 0 930 178Z" fill="url(#hatch)"/>
+<path d="M930 405A150 150 0 0 1 800 330L863 294A77 77 0 0 0 930 332Z" fill="url(#hatch)"/>
+<circle cx="930" cy="255" r="72" fill="#e64b2f"/><circle cx="930" cy="255" r="64" fill="none" stroke="#f9e7be" stroke-dasharray="2 5"/>
+<path d="M930 194 939 229 967 212 950 241 987 250 950 260 967 289 939 272 930 308 921 272 893 289 910 260 873 250 910 241 893 212 921 229Z" fill="#efb647"/>
+<circle cx="930" cy="255" r="25" fill="#102f3b"/><circle cx="930" cy="255" r="6" fill="#f9e7be"/></g>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round"><path d="M1135 121 1116 291 1048 342" stroke="#071b23" stroke-width="14"/>
+<path d="M1132 118 1113 288 1045 339" stroke="#f9e7be" stroke-width="8"/><path d="m1045 339-17 13" stroke="#efb647" stroke-width="17"/></g>
+<circle cx="1132" cy="118" r="15" fill="#efb647" stroke="#102f3b" stroke-width="5"/>
+<g fill="#efb647"><use href="#star" x="727" y="125"/><use href="#star" x="1137" y="388"/></g>
+<g fill="#e64b2f"><rect class="bar" x="719" y="375" width="9" height="35"/><rect class="bar b2" x="733" y="360" width="9" height="50"/>
+<rect class="bar b3" x="747" y="370" width="9" height="40"/><rect class="bar b4" x="761" y="352" width="9" height="58"/><rect class="bar b5" x="775" y="380" width="9" height="30"/></g>
+</svg>

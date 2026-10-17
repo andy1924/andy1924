@@ -1,51 +1,88 @@
-# Hey, I'm Arnav 👋
-
-**Building useful things with AI, Python, and a healthy amount of curiosity.**<br>
-Computer Engineering student at **NMIMS, Mumbai**, working across applied AI, backend systems, and full-stack development.
-
-I enjoy turning messy, real-world problems into software people can use — from helping planners make sense of site updates to helping entrepreneurs explore a business idea. Lately, that means retrieval-augmented generation (RAG), AI agents, and the APIs and interfaces that bring them to life.
-
-Around here, you'll also find cricket rabbit holes, research experiments, and a few projects that started with “what if?”
-
-[Say hello](mailto:deshpandearnavn@gmail.com) · [LinkedIn](https://www.linkedin.com/in/arnav-deshpande-35251b202/) · [Explore my projects](#a-few-things-ive-built)
-
 <p align="center">
-  <img src="assets/cover.jpg" alt="Vintage Indian print-inspired banner reading Arnav Deshpande, with a tiger in headphones and a vinyl record." width="440">
+  <img src="assets/curiosity-mix.svg" width="100%" alt="Arnav Deshpande presents The Curiosity Mix: an animated record sleeve. Curiosity on repeat. Made in Mumbai.">
 </p>
 
-## A few things I've built
+<p align="center">
+  <a href="#side-a--things-i-build">▶ PLAY THE PROJECTS</a> &nbsp; / &nbsp;
+  <a href="#side-b--off-the-clock">↻ FLIP THE RECORD</a> &nbsp; / &nbsp;
+  <a href="mailto:deshpandearnavn@gmail.com">↗ SAY HELLO</a>
+</p>
 
-Infrastructure, entrepreneurship, and AI research: different problems, plenty to learn from each.
+# Hey, I'm Arnav. Welcome to the mix. 🎧
 
-### 🏗️ [CARRICK](https://github.com/andy1924/CARRICK)
+Computer Engineering at **NMIMS, Mumbai**. I build **AI applications, backend systems, and the interfaces around them** — usually with music on and one more idea than I have time for.
 
-**Helping site updates find their place in a project schedule.** A runnable Python application where AI connects field reports to schedule activities and planners review the proposed changes before export.
+My projects take me from infrastructure sites to rural businesses to cricket scorecards. The common thread? A question I couldn't leave alone.
 
-- **Built with:** Python, SQLite, optional RAG, and browser-based capture and review.
-- **Under the hood:** project-level access controls, source evidence, conflict checks, and XER/CSV exports. XER output passes a parser round trip; independent Oracle P6 import is still an external acceptance check.
+**On the turntable:** RAG, AI agents, and software that turns a messy input into a useful next step.
 
-[System architecture](https://github.com/andy1924/CARRICK/blob/main/docs/architecture/system.md) · [AI retrieval design](https://github.com/andy1924/CARRICK/blob/main/docs/architecture/ai-rag.md) · [Verification suites](https://github.com/andy1924/CARRICK/blob/main/tests/README.md) · [API implementation](https://github.com/andy1924/CARRICK/tree/main/services/api)
+---
 
-### 🌱 [UdyogSaarthi](https://github.com/andy1924/UdyogSaarthi)
+## Side A / Things I build
 
-**Giving a business idea a clearer path forward.** A team-built multilingual platform for rural entrepreneurs, covering feasibility, finance, compliance, and a Detailed Project Report.
+*Four tracks. Pick your rabbit hole.*
 
-- **Built with:** FastAPI, PostgreSQL/PostGIS, Redis, Celery, React, and TypeScript.
-- **Under the hood:** financial calculations, applicant/reviewer/auditor roles, geospatial feasibility, and asynchronous PDF generation.
+<table>
+<tr>
+<td width="150" align="center">
+<a href="https://github.com/andy1924/CARRICK"><img src="assets/carrick-sleeve.svg" width="140" alt="CARRICK sleeve: a crane above a project schedule, in saffron and ink blue."></a>
+</td>
+<td>
+<h3>01 / <a href="https://github.com/andy1924/CARRICK">CARRICK</a></h3>
+<p><strong>From “here's what happened on site” to “here's what changes in the schedule.”</strong></p>
+<p>AI matches field reports to schedule activities. Planners review the proposed changes before export. Built with access controls, source evidence, and conflict checks.</p>
+<p><code>Python</code> <code>SQLite</code> <code>RAG</code></p>
+<p><a href="https://github.com/andy1924/CARRICK/blob/main/docs/architecture/system.md">Architecture ↗</a> · <a href="https://github.com/andy1924/CARRICK/tree/main/tests">Tests ↗</a></p>
+</td>
+</tr>
+<tr>
+<td width="150" align="center">
+<a href="https://github.com/andy1924/UdyogSaarthi"><img src="assets/udyog.jpg" width="140" alt="UdyogSaarthi sleeve: a rural shop beneath a bright rising sun."></a>
+</td>
+<td>
+<h3>02 / <a href="https://github.com/andy1924/UdyogSaarthi">UdyogSaarthi</a></h3>
+<p><strong>A business idea deserves somewhere to start.</strong></p>
+<p>A team-built multilingual platform for rural entrepreneurs: feasibility, financial calculations, compliance, and project reports, with applicant, reviewer, and auditor roles.</p>
+<p><code>FastAPI</code> <code>PostgreSQL / PostGIS</code> <code>React</code> <code>Celery</code></p>
+<p><a href="https://github.com/andy1924/UdyogSaarthi/blob/main/docs/systemDesign.md">System design ↗</a> · <a href="https://github.com/andy1924/UdyogSaarthi/blob/main/docs/apiDocs.md">API contract ↗</a></p>
+</td>
+</tr>
+<tr>
+<td width="150" align="center">
+<a href="https://github.com/andy1924/Graph-RAG"><img src="assets/graph.jpg" width="140" alt="Graph-RAG sleeve: a magnifying glass revealing a colorful knowledge graph."></a>
+</td>
+<td>
+<h3>03 / <a href="https://github.com/andy1924/Graph-RAG">Graph-RAG</a></h3>
+<p><strong>“Sounds right” is an interesting place to start testing.</strong></p>
+<p>Co-authored research comparing multimodal, graph-based retrieval with a chunk-based RAG baseline. From ingestion and knowledge graphs to grounded answers and evaluation.</p>
+<p><code>Python</code> <code>Neo4j</code> <code>ChromaDB</code> <code>LLM APIs</code></p>
+<p><a href="https://github.com/andy1924/Graph-RAG/blob/main/docs/ARCHITECTURE.md">Architecture ↗</a> · <a href="https://github.com/andy1924/Graph-RAG/blob/main/docs/EVALUATION.md">Evaluation ↗</a></p>
+</td>
+</tr>
+<tr>
+<td width="150" align="center">
+<a href="https://github.com/andy1924/The-First-Six-Overs"><img src="assets/cricket.jpg" width="140" alt="The First Six Overs sleeve: a red cricket ball flying over a floodlit stadium."></a>
+</td>
+<td>
+<h3>04 / <a href="https://github.com/andy1924/The-First-Six-Overs">The First Six Overs</a></h3>
+<p><strong>The cricket debate got out of hand. So I brought data.</strong></p>
+<p>An analysis of 1,227 completed IPL matches: toss effects, powerplay runs, and wickets, explored with hypothesis tests and logistic regression.</p>
+<p><code>R</code> <code>Cricsheet</code> <code>Statistical analysis</code></p>
+<p><a href="https://github.com/andy1924/The-First-Six-Overs/blob/main/analysis.md">The findings ↗</a> · <a href="https://github.com/andy1924/The-First-Six-Overs/blob/main/R/01_analysis.R">The analysis ↗</a></p>
+</td>
+</tr>
+</table>
 
-[System design](https://github.com/andy1924/UdyogSaarthi/blob/main/docs/systemDesign.md) · [API contract](https://github.com/andy1924/UdyogSaarthi/blob/main/docs/apiDocs.md) · [Backend tests](https://github.com/andy1924/UdyogSaarthi/tree/main/backend/tests) · [CI workflow](https://github.com/andy1924/UdyogSaarthi/blob/main/.github/workflows/ci.yml)
-
-### 🔎 [Graph-RAG](https://github.com/andy1924/Graph-RAG)
-
-**Exploring how AI can give better-grounded answers.** I co-authored this research project comparing multimodal, graph-based retrieval with a chunk-based RAG baseline.
-
-- **Built with:** Python, Neo4j, ChromaDB, and LLM APIs.
-- **Under the hood:** PDF/text ingestion, knowledge graphs, grounded generation, and evaluations of answer quality, hallucinations, latency, and statistical significance.
-
-[Architecture](https://github.com/andy1924/Graph-RAG/blob/main/docs/ARCHITECTURE.md) · [Evaluation methodology](https://github.com/andy1924/Graph-RAG/blob/main/docs/EVALUATION.md) · [Experiments](https://github.com/andy1924/Graph-RAG/tree/main/experiments)
+**Bonus track / [AtlasAI](https://github.com/andy1924/AtlasAI)** — AI/ML lead on a team logistics prototype: a LangGraph agent, outcome-aware memory, human approval, and a NumPy LSTM for carrier forecasting. The fleet dashboard uses simulated vessel positions.
 
 <details>
-<summary><strong>Curious about the results? Here's what we found.</strong></summary>
+<summary><strong>Liner notes / Engineering details & research trade-offs</strong></summary>
+
+### CARRICK
+
+XER exports pass a parser round trip. Independent Oracle P6 import remains an external acceptance check. [Export and verification details](https://github.com/andy1924/CARRICK/tree/main/tests).
+
+### Graph-RAG
 
 The repository reports these aggregate benchmark results:
 
@@ -61,20 +98,25 @@ Lower hallucination rate came with higher latency and lower semantic similarity 
 
 </details>
 
-**Also on my workbench: [AtlasAI](https://github.com/andy1924/AtlasAI)** 🚢 — I led AI/ML on this team logistics prototype, bringing together a [LangGraph agent](https://github.com/andy1924/AtlasAI/blob/main/backend/agent.py), outcome-aware ChromaDB memory, human approval, and a [NumPy LSTM](https://github.com/andy1924/AtlasAI/blob/main/backend/ml/lstm_model.py) for carrier forecasting. The fleet dashboard uses simulated vessel positions.
+## The instruments
 
-## A cricket question became a whole repository 🏏
+| Part of the build | What I reach for |
+| --- | --- |
+| AI & retrieval | Python · RAG · LangGraph · Neo4j · ChromaDB |
+| APIs & background work | FastAPI · PostgreSQL · Redis · Celery |
+| Interfaces | React · TypeScript |
+| Questions best answered with data | R · hypothesis testing · regression |
 
-How much do the toss and powerplay really matter? [**The First Six Overs**](https://github.com/andy1924/The-First-Six-Overs) explores **1,227 completed IPL matches** using **R** and Cricsheet ball-by-ball data. Hypothesis tests and logistic regression help me put some numbers behind the cricket debates.
+## Side B / Off the clock
 
-[Read the findings](https://github.com/andy1924/The-First-Six-Overs/blob/main/analysis.md) · [Run the analysis](https://github.com/andy1924/The-First-Six-Overs/blob/main/R/01_analysis.R)
+🎧 **On repeat:** Daniel Caesar.<br>
+🏏 **Likely distraction:** a cricket question with a suspiciously large dataset.<br>
+💡 **Recurring habit:** “What if I built something for that?”
 
-## Beyond the code 🎧
+## Your idea could be the next track.
 
-Music is usually on — currently Daniel Caesar. Cricket tends to turn into a data project. And I like building things that give me a reason to learn something new.
+I'm open to **applied AI, backend, and full-stack engineering opportunities**, and always happy to talk about an interesting build.
 
-## Let's build something
+[**Email Arnav ↗**](mailto:deshpandearnavn@gmail.com) &nbsp; · &nbsp; [LinkedIn ↗](https://www.linkedin.com/in/arnav-deshpande-35251b202/) &nbsp; · &nbsp; [Browse every repository ↗](https://github.com/andy1924?tab=repositories)
 
-I'm open to **applied AI, backend, and full-stack engineering opportunities**. Have an interesting problem, a project to collaborate on, or a cricket theory to test? I'd love to hear from you.
-
-[**deshpandearnavn@gmail.com**](mailto:deshpandearnavn@gmail.com) · [LinkedIn](https://www.linkedin.com/in/arnav-deshpande-35251b202/) · [All repositories](https://github.com/andy1924?tab=repositories)
+<p align="center"><sub>Made in Mumbai. Best explored with headphones on.</sub></p>
