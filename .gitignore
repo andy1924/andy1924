@@ -1,0 +1,21 @@
+# Publish only the profile and the assets it uses.
+# Add an explicit exception below when the README needs a new asset.
+/*
+!/.gitignore
+!/README.md
+!/assets/
+
+/assets/*
+!/assets/sketchbook/
+
+/assets/sketchbook/*
+!/assets/sketchbook/header-animated-dark.svg
+!/assets/sketchbook/header-animated-light.svg
+!/assets/sketchbook/carrick.png
+!/assets/sketchbook/carrick-light.png
+!/assets/sketchbook/udyog.png
+!/assets/sketchbook/udyog-light.png
+!/assets/sketchbook/graph.png
+!/assets/sketchbook/graph-light.png
+!/assets/sketchbook/cricket.png
+!/assets/sketchbook/cricket-light.png
